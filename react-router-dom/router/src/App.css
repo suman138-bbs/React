@@ -1,0 +1,14 @@
+body {
+  background-color: #fff;
+  
+}
+
+nav a { 
+  margin: 20px;
+}
+/* 
+nav a.active{
+  background-color: aqua;
+  text-decoration: none;
+  font-weight: bold;
+} */

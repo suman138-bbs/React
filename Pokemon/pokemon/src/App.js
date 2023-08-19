@@ -1,12 +1,9 @@
-import './App.css';
-
-function App() {
+import CounterOne from "./components/CounterOne";
+const App = () => {
+     
   return (
     <>
-    <div className="App">
-      
-    </div>
-      
+      <CounterOne/>
     </>
   )
 }
